@@ -2,9 +2,9 @@
 
 # 👋 Olá! Eu sou o **Christian Fachini**
 
-💻 eu faço jovem aprendiz na weg
-💻 eu estou fazendo curso de TI
-🚀 eu que aprender cada vez mais
+ - 💻 eu faço jovem aprendiz na weg
+ - 💻 eu estou fazendo curso de TI
+ - 🚀 eu que aprender cada vez mais
 
 ---
 
