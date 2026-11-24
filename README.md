@@ -8,8 +8,6 @@
 
 <br>
 
-<img align="right" width="190" src="./assets/mascote-dev.svg" alt="Mascote robô do Christian" />
-
 # 👋 Olá! Eu sou o **Christian Fachini**
 
 - 💻 eu faço jovem aprendiz na WEG
