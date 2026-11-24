@@ -25,16 +25,15 @@ Meu objetivo é evoluir como desenvolvedor, fortalecer minha lógica de programa
 ### 💻 Tecnologias que estudo e pratico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql&perline=8" alt="HTML, CSS, JavaScript, Java, MySQL, Tailwind CSS, Spring e Python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql&perline=8" alt="HTML, CSS, JavaScript, Java, MySQL" />
 </div>
 
 ### ⚙️ Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&perline=8" alt="Git, GitHub, Visual Studio Code e Arduino" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" alt="Git, GitHub, Visual Studio Code" />
   <br><br>
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse IDE" />
-  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
 </div>
 
 ---
