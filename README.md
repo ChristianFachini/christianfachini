@@ -33,23 +33,6 @@
 
 ---
 
-## 📊 GitHub em números
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChristianFachini&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianFachini&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
-</div>
-
-<div align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=ChristianFachini&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChristianFachini&bg_color=1a1b27&color=70d6ff&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade" />
-</div>
-
----
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase do dia" />
 </div>
