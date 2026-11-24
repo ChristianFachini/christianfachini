@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:312E81,100:0F172A&height=220&section=header&text=Christian%20Fachini&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20em%20formação%20•%20Web%20•%20Java%20•%20IoT&descSize=20&descAlignY=60&animation=fadeIn" alt="Banner Christian Fachini" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:312E81,100:0F172A&height=220&section=header&text=Christian%20Fachini&fontSize=60&fontColor=ffffff&fontAlignY=38" />
 </div>
 
 <div align="center">
