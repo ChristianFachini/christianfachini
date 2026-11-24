@@ -1,6 +1,3 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0EA5E9&height=220&section=header&text=Christian%20Fachini&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Desenvolvimento%20de%20Sistemas%20%7C%20Tecnologia%20%26%20Inova%C3%A7%C3%A3o&descSize=17&descAlignY=58" alt="Banner de apresentação de Christian Fachini" />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=67E8F9&center=true&vCenter=true&width=800&lines=Jovem+Aprendiz+na+WEG;Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo%2C+criando+e+evoluindo+um+projeto+por+vez" alt="Texto animado de apresentação" />
