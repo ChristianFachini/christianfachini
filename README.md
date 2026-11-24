@@ -42,17 +42,6 @@ Meu objetivo é evoluir como desenvolvedor, fortalecer minha lógica de programa
   <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
 </div>
 
-### 🌐 Assuntos que estudo e pratico
-
-<div align="center">
-  <img src="https://img.shields.io/badge/APIs%20REST-0F766E?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs REST" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
-  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" alt="Node-RED" />
-  <img src="https://img.shields.io/badge/WEGnology-005DAA?style=for-the-badge&logoColor=white" alt="WEGnology" />
-</div>
-
 ---
 
 ## 🚀 Projetos e atividades
