@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos, Atividades, Treinamentos
 
 <table>
   <tr>
