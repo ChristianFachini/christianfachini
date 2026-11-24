@@ -102,26 +102,6 @@
 
 ---
 
-## 💬 Vamos conversar?
-
-Estou sempre aberto a trocar ideias, aprender com quem já está na estrada e colaborar em projetos.
-
-<div align="center">
-  <a href="https://github.com/ChristianFachini">
-    <img src="https://img.shields.io/badge/GitHub-ChristianFachini-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- Quando criar, descomente e troque pelo seu link:
-  <a href="https://www.linkedin.com/in/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:SEU-EMAIL">
-    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
-  -->
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase do dia" />
 </div>
