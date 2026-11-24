@@ -9,7 +9,6 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChristianFachini&label=Visitas%20no%20perfil&color=0EA5E9&style=for-the-badge" alt="Contador de visitas" />
   <img src="https://img.shields.io/badge/WEG-Jovem%20Aprendiz-00579D?style=for-the-badge" alt="WEG" />
   <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Sistemas-312E81?style=for-the-badge" alt="Foco" />
 </div>
