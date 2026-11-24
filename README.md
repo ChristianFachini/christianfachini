@@ -18,50 +18,7 @@
 
 ## 👋 Olá! Eu sou o **Christian**
 
-Sou **jovem aprendiz na WEG** e estudante de **Desenvolvimento de Sistemas**. Aprendo construindo: cada projeto é uma chance de entender como as partes de um sistema se conectam e de transformar uma ideia em algo que funciona.
-
-```java
-public class Christian {
-
-    String funcao   = "Jovem Aprendiz na WEG";
-    String curso    = "Desenvolvimento de Sistemas";
-    String[] focos  = {"Web", "Java", "APIs", "IoT"};
-    String lema     = "Um código de cada vez. Sempre evoluindo.";
-
-    public void aprender() {
-        while (true) {
-            estudar();
-            construir();
-            errar();
-            melhorar();
-        }
-    }
-}
-```
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🔭 Agora estou
-- 💻 Fortalecendo lógica de programação
-- ☕ Aprofundando em Java e orientação a objetos
-- 🌐 Integrando APIs com JavaScript
-- 🎨 Criando interfaces com Tailwind CSS
-
-</td>
-    <td width="50%" valign="top">
-
-### 🎯 Próximos passos
-- 🗄️ Evoluir em banco de dados com MySQL
-- 🔌 Explorar projetos de IoT
-- 🧩 Construir projetos mais completos (front + back)
-- 🤝 Contribuir com projetos e trabalhar em equipe
-
-</td>
-  </tr>
-</table>
-
+Sou **jovem aprendiz na WEG** faço **Desenvolvimento de Sistemas**.
 ---
 
 ## 🛠️ Stack
