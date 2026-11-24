@@ -25,7 +25,7 @@ Meu objetivo é evoluir como desenvolvedor, fortalecer minha lógica de programa
 ### 💻 Tecnologias que estudo e pratico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,tailwind,spring,python&perline=8" alt="HTML, CSS, JavaScript, Java, MySQL, Tailwind CSS, Spring e Python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql&perline=8" alt="HTML, CSS, JavaScript, Java, MySQL, Tailwind CSS, Spring e Python" />
 </div>
 
 ### ⚙️ Ferramentas
