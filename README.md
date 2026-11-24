@@ -93,10 +93,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChristianFachini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Troféus do GitHub" />
-</div>
-
-<div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChristianFachini&bg_color=1a1b27&color=70d6ff&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade" />
 </div>
 
