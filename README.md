@@ -33,6 +33,69 @@
 
 ---
 
+## 🎯 Meu universo de desenvolvimento
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🌐 Front-end</h3>
+        <p>Interfaces, interatividade e experiências web.</p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+      </td>
+      <td align="center" width="33%">
+        <h3>⚙️ Back-end</h3>
+        <p>APIs, regras de negócio e desenvolvimento de sistemas.</p>
+        <img src="https://skillicons.dev/icons?i=java,spring,python,mysql" />
+      </td>
+      <td align="center" width="33%">
+        <h3>📡 IoT</h3>
+        <p>Dispositivos conectados, sensores e comunicação.</p>
+        <img src="https://skillicons.dev/icons?i=arduino,docker,git,github" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChristianFachini&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianFachini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+  <br><br>
+
+  <img width="60%" src="https://streak-stats.demolab.com?user=ChristianFachini&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Minha atividade no GitHub
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChristianFachini&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🐍 Minhas contribuições em movimento
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristianFachini/ChristianFachini/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChristianFachini/ChristianFachini/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação da cobrinha percorrendo minhas contribuições" src="https://raw.githubusercontent.com/ChristianFachini/ChristianFachini/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+
+---
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase do dia" />
 </div>
