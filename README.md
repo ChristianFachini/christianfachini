@@ -14,12 +14,7 @@
   <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Sistemas-312E81?style=for-the-badge" alt="Foco" />
 </div>
 
-<br>
 
-## 👋 Olá! Eu sou o **Christian**
-
-Sou **jovem aprendiz na WEG** faço **Desenvolvimento de Sistemas**.
----
 
 ## 🛠️ Stack
 
