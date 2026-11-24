@@ -33,53 +33,6 @@
 
 ---
 
-## 🚀 Projetos, Atividades, Treinamentos
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🟨 Mini Sistemas em JavaScript</h3>
-      <p>Atividades para praticar lógica de programação e fundamentos de JavaScript.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br><br>
-      <a href="https://github.com/ChristianFachini/Mini-sistema-de-Java-Script">Ver repositório →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Atividade com API</h3>
-      <p>Prática de integração com APIs utilizando JavaScript.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/API-0EA5E9?style=flat-square" alt="API" /><br><br>
-      <a href="https://github.com/ChristianFachini/atividade-pair-js-API">Ver repositório →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☕ Relacionamento em Java</h3>
-      <p>Estudos e exercícios de programação utilizando Java.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /><br><br>
-      <a href="https://github.com/ChristianFachini/Relacionamento-">Ver repositório →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 HTML, CSS, Tailwind e DOM</h3>
-      <p>Atividade prática de desenvolvimento de interfaces e manipulação do DOM.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /><br><br>
-      <a href="https://github.com/ChristianFachini/Atividade_Pr-tica_CSS_Tailwind_DOM_README">Ver repositório →</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🧪 Treinando Front-end</h3>
-      <p>Espaço de experimentação e exercícios com HTML, CSS e JavaScript.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br><br>
-      <a href="https://github.com/ChristianFachini/Treinando">Ver repositório →</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub em números
 
 <div align="center">
