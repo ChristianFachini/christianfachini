@@ -21,7 +21,7 @@
 
 **Linguagens e tecnologias**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,tailwind,mysql&perline=8" alt="HTML, CSS, JavaScript, Java, Tailwind, MySQL, intellij" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,tailwind,mysql&perline=8" alt="HTML, CSS, JavaScript, Java, Tailwind, MySQL," />
 
 <br><br>
 
@@ -46,7 +46,7 @@
       <td align="center" width="33%">
         <h3>⚙️ Back-end</h3>
         <p>APIs, regras de negócio e desenvolvimento de sistemas.</p>
-        <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+        <img src="https://skillicons.dev/icons?i=java,spring,mysql,intellij" />
       </td>
     </tr>
   </table>
