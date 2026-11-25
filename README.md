@@ -41,12 +41,12 @@
       <td align="center" width="33%">
         <h3>🌐 Front-end</h3>
         <p>Interfaces, interatividade e experiências web.</p>
-        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vscodes" />
       </td>
       <td align="center" width="33%">
         <h3>⚙️ Back-end</h3>
         <p>APIs, regras de negócio e desenvolvimento de sistemas.</p>
-        <img src="https://skillicons.dev/icons?i=java,spring,python,mysql" />
+        <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
       </td>
     </tr>
   </table>
