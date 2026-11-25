@@ -41,7 +41,7 @@
       <td align="center" width="33%">
         <h3>🌐 Front-end</h3>
         <p>Interfaces, interatividade e experiências web.</p>
-        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vscodes" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vscode" />
       </td>
       <td align="center" width="33%">
         <h3>⚙️ Back-end</h3>
