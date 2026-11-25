@@ -46,7 +46,7 @@
       <td align="center" width="33%">
         <h3>⚙️ Back-end</h3>
         <p>APIs, regras de negócio e desenvolvimento de sistemas.</p>
-        <img src="https://skillicons.dev/icons?i=java,spring,mysql,intellij" />
+        <img src="https://skillicons.dev/icons?i=java,spring,mysql,idea" />
       </td>
     </tr>
   </table>
