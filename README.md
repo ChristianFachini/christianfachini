@@ -21,7 +21,7 @@
 
 **Linguagens e tecnologias**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,tailwind,mysql&perline=8" alt="HTML, CSS, JavaScript, Java, Tailwind, MySQL" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,tailwind,mysql&perline=8" alt="HTML, CSS, JavaScript, Java, Tailwind, MySQL, intellij" />
 
 <br><br>
 
