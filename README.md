@@ -48,11 +48,6 @@
         <p>APIs, regras de negócio e desenvolvimento de sistemas.</p>
         <img src="https://skillicons.dev/icons?i=java,spring,python,mysql" />
       </td>
-      <td align="center" width="33%">
-        <h3>📡 IoT</h3>
-        <p>Dispositivos conectados, sensores e comunicação.</p>
-        <img src="https://skillicons.dev/icons?i=arduino,docker,git,github" />
-      </td>
     </tr>
   </table>
 </div>
