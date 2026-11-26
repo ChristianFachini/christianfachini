@@ -100,38 +100,3 @@
   <p>Um código de cada vez. Um projeto de cada vez. Sempre evoluindo. 🚀</p>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:312E81,100:0F172A&height=110&section=footer" alt="" />
 </div>
-
-
-
-
-
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ChristianFachini
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
